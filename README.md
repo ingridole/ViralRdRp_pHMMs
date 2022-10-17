@@ -1,5 +1,8 @@
+This dataset provides 77 family level pHMMs describing RNA viral RdRps, which can be used for sensitive detection of sequences derived from viral RdRp in RNA sequence data.
+
+
 ## Background Information
-Profile Hidden Markov Models (pHMMs) provide a more sensitive method than BLASTP for finding distant homologues of known protein sequences while (in contrast to structure-based approaches) maintaining computational speed (Eddy, 2011). In this analysis, we used known RNA virus sequences to develop 77 family-level RdRp pHMMs. 
+Profile Hidden Markov Models (pHMMs) provide a more sensitive method than BLASTP for finding distant homologues of known protein sequences while (in contrast to structure-based approaches) maintaining computational speed (Eddy, 2011). We used known RNA virus sequences to develop 77 family-level RdRp pHMMs. 
 
 ## Directory Structure
 #### alignments
