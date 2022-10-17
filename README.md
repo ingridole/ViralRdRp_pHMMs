@@ -35,3 +35,5 @@ Edgar, R. C. (2004). ‘MUSCLE: multiple sequence alignment with high accuracy a
 Finn, R. D., Bateman, A., Clements, J., Coggill, P., Eberhardt, R. Y., Eddy, S. R., Heger, A., et al. (2014). ‘Pfam: the protein families database’, Nucleic Acids Research, 42/Database issue: D222-230. DOI: 10.1093/nar/gkt1223
 
 Zimmermann, L., Stephens, A., Nam, S.-Z., Rau, D., Kübler, J., Lozajic, M., Gabler, F., et al. (2018). ‘A Completely Reimplemented MPI Bioinformatics Toolkit with a New HHpred Server at its Core’, Journal of Molecular Biology, 430/15: 2237–43. DOI: 10.1016/j.jmb.2017.12.007
+
+Additional data associated with this manuscript is located [here](https://github.com/ingridole/ViralRdRp_pHMMs_2).
